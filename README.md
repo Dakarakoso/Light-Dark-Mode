@@ -57,7 +57,7 @@ The project idea was to provide the user an experience of choosing the screen mo
 ## Contact
 
 Willian Negishi - willian_jvm@hotmail.com
-Project Link: [https://github.com/Dakarokoso/Joker-Teller](https://github.com/Dakarakoso/Light-Dark-Mode)
+Project Link: [https://github.com/Dakarokoso/Light-Dark-Mode](https://github.com/Dakarakoso/Light-Dark-Mode)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
