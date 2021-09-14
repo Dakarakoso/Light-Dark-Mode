@@ -14,6 +14,8 @@
 
 ### LIVE
 
+https://dakarakoso.github.io/Light-Dark-Mode/
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of contents
@@ -48,14 +50,14 @@ The project idea was to provide the user an experience of choosing the screen mo
 
 ## Usage
 
-![Light Dark Mode](https://github.com/Dakarakoso/Quote-Generator/blob/main/images/usage.gif)
+![Light Dark Mode](https://github.com/Dakarakoso/Light-Dark-Mode/blob/main/images/usage.gif)
 
 <!-- CONTACT -->
 
 ## Contact
 
 Willian Negishi - willian_jvm@hotmail.com
-Project Link: [https://github.com/Dakarokoso/Joker-Teller](https://github.com/Dakarakoso/Quote-Generator)
+Project Link: [https://github.com/Dakarokoso/Joker-Teller](https://github.com/Dakarakoso/Light-Dark-Mode)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
